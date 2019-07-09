@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "loan\\": "src/"
+            "loan\\": "src"
         }
     }
 }
