@@ -1,5 +1,5 @@
 {
-    "name": "color-loan",
+    "name": "color/loan",
     "description": "贷款计算方式",
     "type": "library",
     "license": "MIT",
